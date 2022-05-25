@@ -9,3 +9,4 @@ voici comment faire vos requettes SQL:
      pour modifier un client: ALTER TABLE user MODIFY COLUMN VARCHAR(45) value " Fatou, Dione ,fatoudione @gmail.com"
      pour suprimer un client :DELETE FROM ( identite WHERE id = 1) value " awesso,lotye,"
      pour afficher les trois derniers films :SELECT FROM des clients_films ORDER BY id film DESC LIMIT 3 
+tanks
